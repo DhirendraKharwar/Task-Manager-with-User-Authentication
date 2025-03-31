@@ -1,0 +1,84 @@
+1. Register
+2. Login
+3. Exit
+Enter your choice: 1
+Enter a username: dhirendrakharwar
+Enter a password: 1234
+Registration successful!
+
+1. Register
+2. Login
+3. Exit
+Enter your choice: 2
+Enter your username: dhirendrakharwar
+Enter your password: 1234
+Login successful!
+
+1. View Tasks
+2. Add Task
+3. Mark Task as Completed
+4. Delete Task
+5. Logout
+Enter your choice: 2
+Enter the task description: Submit the project on 31-03-2025
+Task added successfully.
+
+1. View Tasks
+2. Add Task
+3. Mark Task as Completed
+4. Delete Task
+5. Logout
+Enter your choice: 1
+
+Your Tasks:
+Task ID: 1, Task: Submit the project on 31-03-2025, Status: Pending
+
+1. View Tasks
+2. Add Task
+3. Mark Task as Completed
+4. Delete Task
+5. Logout
+Enter your choice: 3
+Enter the task ID to mark as completed: 1
+Task marked as completed.
+
+1. View Tasks
+2. Add Task
+3. Mark Task as Completed
+4. Delete Task
+5. Logout
+Enter your choice: 1
+
+Your Tasks:
+Task ID: 1, Task: Submit the project on 31-03-2025, Status: Completed
+
+1. View Tasks
+2. Add Task
+3. Mark Task as Completed
+4. Delete Task
+5. Logout
+Enter your choice: 4
+Enter the task ID to delete: 1
+Task deleted successfully.
+
+1. View Tasks
+2. Add Task
+3. Mark Task as Completed
+4. Delete Task
+5. Logout
+Enter your choice: 1
+
+Your Tasks:
+
+1. View Tasks
+2. Add Task
+3. Mark Task as Completed
+4. Delete Task
+5. Logout
+Enter your choice: 5
+Logging out...
+
+1. Register
+2. Login
+3. Exit
+Enter your choice: 5 
